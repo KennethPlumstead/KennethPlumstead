@@ -9,6 +9,7 @@ Mobile & Desktop Web Developer | Application Developer in Training
 🛠️ Tech Stack
 
 Languages: HTML, CSS, JavaScript
+
 Tools: Git, GitHub, VS Code, Figma
 
 

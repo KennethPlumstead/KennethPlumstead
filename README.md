@@ -1,7 +1,8 @@
-<!-- Typing SVG Hero -->
+<h2 align="center">👋 Hi, I'm Kenneth Plumstead</h2>
+
 <p align="center">
   <a href="https://github.com/KennethPlumstead">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Kenneth+Plumstead+%F0%9F%91%8B;Mobile+%26+Web+Dev+Student;Coding+One+Step+at+a+Time." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Mobile+%26+Web+Dev+Student;Always+Learning%2C+Always+Building" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,33 +21,35 @@
 
 🚀 I may be new to the game, but I code like I mean it — one project, one bug, and one breakthrough at a time.
 
->  *Let’s turn curiosity into code — and build something amazing along the way.*
+> *Let’s turn curiosity into code — and build something amazing along the way.*
 
 ---
 
 ### 🚀 What's Next
+
 - 📘 **In School**: Learning core dev skills through hands-on coursework and labs  
 - 💡 **Gaining Confidence In**: Building responsive layouts, managing repositories, and using terminal commands  
 - 🧱 **Laying the Groundwork**: Planning future projects as my skills grow
 
-> Everyone starts somewhere — I’m here to grow, build, and share the journey.
+> *Everyone starts somewhere — I’m here to grow, build, and share the journey.*
 
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KennethPlumstead&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KennethPlumstead&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennethPlumstead&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=KennethPlumstead&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennethPlumstead&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🧰 Toolbox
+
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,php,mysql,swift,github,vscode,linux,bash,figma,xd" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,php,mysql,swift,github,vscode,linux,bash,figma,xd" alt="Toolbox Icons" />
 </p>
 
 ---
